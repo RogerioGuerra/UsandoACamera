@@ -1,0 +1,60 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:background="#AABBCC"
+    >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Utilizando a camera do android" 
+          android:textSize="15sp"/>
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="" />
+
+    <Button
+        android:id="@+id/btFoto"
+     android:layout_width="fill_parent"
+       android:layout_height="wrap_content"
+        android:layout_weight="0.45"
+        android:padding="35sp"
+        android:text="Foto"
+        android:textSize="35sp" 
+       />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="" />
+
+    <Button
+        android:id="@+id/btVideo"
+       android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.45"
+         android:padding="35sp"
+        android:text="Video"
+          android:textSize="35sp" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="" />
+
+    <Button
+        android:id="@+id/btGravarSom"
+        android:layout_width="fill_parent"
+       android:layout_height="wrap_content"
+        android:layout_weight="0.45"
+        android:text="Gravar Som" 
+         android:textSize="35sp"/>
+
+</LinearLayout>
