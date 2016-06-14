@@ -2,5 +2,9 @@
     {
         "merged": "C:\\Users\\Rogerio\\AndroidStudioProjects\\UsandoACamera\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
         "source": "C:\\Users\\Rogerio\\AndroidStudioProjects\\UsandoACamera\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rogerio\\AndroidStudioProjects\\UsandoACamera\\UsandoACamera\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\Rogerio\\AndroidStudioProjects\\UsandoACamera\\UsandoACamera\\app\\src\\main\\res\\menu\\main.xml"
     }
 ]
